@@ -1,0 +1,10 @@
+README
+
+Pré-requisitos:
+	
+	JDK 7+
+	Maven 3+
+
+Caso queira importar o projeto para o eclipse, rode apartir da pasta raíz do projeto:
+	$ mvn eclipse:eclipse
+E depois só usar importar normalmente para o eclipse
